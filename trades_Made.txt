@@ -1,0 +1,297 @@
+HTX Ticker Price: 37818.03 | Phemex Ticker Price: 37837.87
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37815.83 | Phemex Ticker Price: 37818.81
+BTC Debt: 0.0026428548964304807
+Converted Debt: 99.94962718567402
+Borrowed USD: 100.0
+actual_Profit: 0.05037281432598206
+Initial Margin: 100.0
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.99418266895448, HTX Balance BTC: 0
+PHEMEX Balance USD: 100.05037281432598, PHEMEX Balance BTC: 0.0
+#########################################################################
+
+HTX Ticker Price: 37824.17 | Phemex Ticker Price: 37844.89
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37788.99 | Phemex Ticker Price: 37788.24
+BTC Debt: 0.002642210947606255
+Converted Debt: 99.84450141877258
+Borrowed USD: 99.99418266895448
+actual_Profit: 0.14968125018189937
+Initial Margin: 99.99418266895448
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.90117876837202, HTX Balance BTC: 0
+PHEMEX Balance USD: 100.20005406450788, PHEMEX Balance BTC: 0.0
+#########################################################################
+
+HTX Ticker Price: 37763.88 | Phemex Ticker Price: 37788.24
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37776.12 | Phemex Ticker Price: 37778.75
+BTC Debt: 0.0026437108150147246
+Converted Debt: 99.87608995273753
+Borrowed USD: 99.90117876837202
+actual_Profit: 0.025088815634489947
+Initial Margin: 99.90117876837202
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.93355866228454, HTX Balance BTC: 0
+PHEMEX Balance USD: 100.22514288014237, PHEMEX Balance BTC: 0.0
+#########################################################################
+
+HTX Ticker Price: 37745.43 | Phemex Ticker Price: 37771.1
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37708.08 | Phemex Ticker Price: 37709.68
+BTC Debt: 0.002645767760596979
+Converted Debt: 99.77105560642869
+Borrowed USD: 99.93355866228454
+actual_Profit: 0.16250305585585068
+Initial Margin: 99.93355866228454
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.83467203108081, HTX Balance BTC: 0
+PHEMEX Balance USD: 100.38764593599822, PHEMEX Balance BTC: 0.0
+#########################################################################
+
+HTX Ticker Price: 37698.46 | Phemex Ticker Price: 37717.75
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37697.4 | Phemex Ticker Price: 37700.29
+BTC Debt: 0.0026468883226353854
+Converted Debt: 99.7884573609676
+Borrowed USD: 99.83467203108081
+actual_Profit: 0.04621467011321556
+Initial Margin: 99.83467203108081
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.83186489380378, HTX Balance BTC: 0
+PHEMEX Balance USD: 100.43386060611144, PHEMEX Balance BTC: 0.0
+#########################################################################
+
+HTX Ticker Price: 37668.05 | Phemex Ticker Price: 37689.39
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37679.57 | Phemex Ticker Price: 37680.66
+BTC Debt: 0.0026488055363539653
+Converted Debt: 99.80874082147142
+Borrowed USD: 99.83186489380378
+actual_Profit: 0.02312407233236513
+Initial Margin: 99.83186489380378
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.86239642074972 , HTX Balance BTC: 0
+PHEMEX Balance USD: 100.4569846784438 , PHEMEX Balance BTC: 0.0
+#########################################################################
+
+
+
+
+
+
+HTX Ticker Price: 37659.81 | Phemex Ticker Price: 37679.5
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37636.4 | Phemex Ticker Price: 37640.14
+BTC Debt: 0.0026503110821733226
+Converted Debt: 99.75808017655537
+Borrowed USD: 99.86239642074972
+actual_Profit: 0.10431624419435082
+Initial Margin: 99.86239642074972
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.80032019943555 , HTX Balance BTC: 0
+PHEMEX Balance USD: 100.56130092263815 , PHEMEX Balance BTC: 0.0
+#########################################################################
+
+
+
+
+HTX Ticker Price: 37628.57 | Phemex Ticker Price: 37647.8
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37629.93 | Phemex Ticker Price: 37628.86
+BTC Debt: 0.0026508938158255075
+Converted Debt: 99.7501122705638
+Borrowed USD: 99.80032019943555
+actual_Profit: 0.050207928871742524
+Initial Margin: 99.80032019943555
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.80392725746276 , HTX Balance BTC: 0
+PHEMEX Balance USD: 100.6115088515099 , PHEMEX Balance BTC: 0.0
+#########################################################################
+
+
+
+
+
+HTX Ticker Price: 37711.91 | Phemex Ticker Price: 37731.09
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37720.57 | Phemex Ticker Price: 37723.2
+BTC Debt: 0.002645137663859241
+Converted Debt: 99.78305712129492
+Borrowed USD: 99.80392725746276
+actual_Profit: 0.02087013616784361
+Initial Margin: 99.80392725746276
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.82684579990861 , HTX Balance BTC: 0
+PHEMEX Balance USD: 100.63237898767774 , PHEMEX Balance BTC: 0.0
+#########################################################################
+
+
+
+
+
+HTX Ticker Price: 37703.43 | Phemex Ticker Price: 37730.56
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37682.49 | Phemex Ticker Price: 37680.4
+BTC Debt: 0.002645782246537253
+Converted Debt: 99.6941333624223
+Borrowed USD: 99.82684579990861
+actual_Profit: 0.13271243748630468
+Initial Margin: 99.82684579990861
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.77140325393732 , HTX Balance BTC: 0
+PHEMEX Balance USD: 100.76509142516404 , PHEMEX Balance BTC: 0.0
+#########################################################################
+
+
+
+
+
+HTX Ticker Price: 37682.96 | Phemex Ticker Price: 37711.88
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37696.36 | Phemex Ticker Price: 37695.17
+BTC Debt: 0.0026456226328132495
+Converted Debt: 99.72719489974301
+Borrowed USD: 99.77140325393732
+actual_Profit: 0.04420835419431057
+Initial Margin: 99.77140325393732
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.80688180455019 , HTX Balance BTC: 0
+PHEMEX Balance USD: 100.80929977935835 , PHEMEX Balance BTC: 0.0
+#########################################################################
+
+
+
+
+
+
+HTX Ticker Price: 37684.48 | Phemex Ticker Price: 37714.28
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37691.23 | Phemex Ticker Price: 37693.32
+BTC Debt: 0.0026463949942714055
+Converted Debt: 99.75141336547026
+Borrowed USD: 99.80688180455019
+actual_Profit: 0.05546843907993093
+Initial Margin: 99.80688180455019
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.82475909653301 , HTX Balance BTC: 0
+PHEMEX Balance USD: 100.86476821843829 , PHEMEX Balance BTC: 0.0
+#########################################################################
+
+
+
+
+HTX Ticker Price: 37691.23 | Phemex Ticker Price: 37714.57
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37691.23 | Phemex Ticker Price: 37693.75
+BTC Debt: 0.0026468486607836975
+Converted Debt: 99.7696517074155
+Borrowed USD: 99.82475909653301
+actual_Profit: 0.05510738911750934
+Initial Margin: 99.82475909653301
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.82475909653301 , HTX Balance BTC: 0
+PHEMEX Balance USD: 100.9198756075558 , PHEMEX Balance BTC: 0.0
+#########################################################################
+
+
+
+HTX Ticker Price: 37667.91 | Phemex Ticker Price: 37689.99
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37675.37 | Phemex Ticker Price: 37674.62
+BTC Debt: 0.00264857483635663
+Converted Debt: 99.78405050129822
+Borrowed USD: 99.82475909653301
+actual_Profit: 0.04070859523478987
+Initial Margin: 99.82475909653301
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.8445290466805 , HTX Balance BTC: 0
+PHEMEX Balance USD: 100.96058420279059 , PHEMEX Balance BTC: 0.0
+#########################################################################
+
+
+
+
+
+HTX Ticker Price: 37658.6 | Phemex Ticker Price: 37690.14
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37681.46 | Phemex Ticker Price: 37684.06
+BTC Debt: 0.0026490888345514375
+Converted Debt: 99.82842258656643
+Borrowed USD: 99.8445290466805
+actual_Profit: 0.016106460114073684
+Initial Margin: 99.8445290466805
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.90513793638982, HTX Balance BTC: 0
+PHEMEX Balance USD: 100.97669066290466, PHEMEX Balance BTC: 0.0
+#########################################################################
+
+HTX Ticker Price: 37688.0 | Phemex Ticker Price: 37720.92
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37669.0 | Phemex Ticker Price: 37672.35
+BTC Debt: 0.0026485339683228783
+Converted Debt: 99.77649864154839
+Borrowed USD: 99.90513793638982
+actual_Profit: 0.12863929484143455
+Initial Margin: 99.90513793638982
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.85477183522258, HTX Balance BTC: 0
+PHEMEX Balance USD: 101.1053299577461, PHEMEX Balance BTC: 0.0
+#########################################################################
+
+HTX Ticker Price: 37656.65 | Phemex Ticker Price: 37692.88
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37690.7 | Phemex Ticker Price: 37694.05
+BTC Debt: 0.0026491680082610454
+Converted Debt: 99.85787136179226
+Borrowed USD: 99.85477183522258
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.9450627926229, HTX Balance BTC: 0
+PHEMEX Balance USD: 101.10223043117641, PHEMEX Balance BTC: 0.0
+#########################################################################
+
+HTX Ticker Price: 37685.71 | Phemex Ticker Price: 37724.77
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37672.37 | Phemex Ticker Price: 37671.94
+BTC Debt: 0.0026493219916946587
+Converted Debt: 99.8050991118017
+Borrowed USD: 99.9450627926229
+actual_Profit: 0.1399636808212108
+Initial Margin: 99.9450627926229
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.90968420647836, HTX Balance BTC: 0
+PHEMEX Balance USD: 101.24219411199762, PHEMEX Balance BTC: 0.0
+#########################################################################
+
+HTX Ticker Price: 37641.78 | Phemex Ticker Price: 37671.12
+Order Successfully Placed! || BOUGHT HTX ||||| SHORT SOLD PHEMEX
+
+HTX Ticker Price: 37652.71 | Phemex Ticker Price: 37656.36
+BTC Debt: 0.0026521559275773684
+Converted Debt: 99.87053838498731
+Borrowed USD: 99.90968420647836
+actual_Profit: 0.03914582149104717
+Initial Margin: 99.90968420647836
+########### BALANCE CHECK AFTER PROFIT IS MADE ##########################
+HTX Balance USD: 99.93869486560173, HTX Balance BTC: 0
+PHEMEX Balance USD: 101.28133993348867, PHEMEX Balance BTC: 0.0
+#########################################################################
